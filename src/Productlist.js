@@ -1,11 +1,11 @@
 import React, { Component } from "react";
 import { Table, Container, Col, Row } from "react-bootstrap";
+// import BootstrapTable from "react-bootstrap-table-next";
+// import paginationFactory from "react-bootstrap-table2-paginator";
 import styled from "styled-components";
 import { ProductTable } from "./components/ProductTable";
 import Axios from "axios";
-// import { MdAddCircle } from "react-icons/md";
 import { NewProductModal } from "./components/NewProductModal";
-
 // import Loader from "./components/Loader";
 
 const Styles = styled.div``;

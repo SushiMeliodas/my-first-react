@@ -44,6 +44,12 @@ export const NavigationBar = () => (
           <Nav.Item>
             <Nav.Link href="/contact">Contact</Nav.Link>
           </Nav.Item>
+          <Nav.Item>
+            <NavDropdown title="Sign in/Register" id="basic-nav-dropdown">
+              <NavDropdown.Item href="#">Sign In</NavDropdown.Item>
+              <NavDropdown.Item href="#">Register</NavDropdown.Item>
+            </NavDropdown>
+          </Nav.Item>
         </Nav>
       </Navbar.Collapse>
     </Navbar>

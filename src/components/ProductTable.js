@@ -106,7 +106,7 @@ export class ProductTable extends Component {
 
         <Modal show={this.state.show} onHide={this.handleModal}>
           <Modal.Header closeButton>
-            <Modal.Title>Modal heading</Modal.Title>
+            <Modal.Title>Edit Product</Modal.Title>
           </Modal.Header>
           <Modal.Body>
             <div>

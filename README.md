@@ -1,3 +1,4 @@
+This is my first project created by using react and call API developed using Laravel.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

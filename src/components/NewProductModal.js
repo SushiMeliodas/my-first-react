@@ -77,7 +77,7 @@ export class NewProductModal extends Component {
           }}
         >
           <Modal.Header closeButton>
-            <Modal.Title>Modal heading</Modal.Title>
+            <Modal.Title>New Product</Modal.Title>
           </Modal.Header>
           <Modal.Body>
             <div>

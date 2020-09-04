@@ -9,6 +9,7 @@ import { Layout } from "./components/Layout";
 import { NavigationBar } from "./components/NavigationBar";
 import { Jumbotron } from "./components/Jumbotron";
 import { Productlist } from "./Productlist";
+// import Footer from "./components/Footer";
 // import { EditProduct } from "./EditProduct";
 
 class App extends Component {
@@ -30,6 +31,7 @@ class App extends Component {
             </Switch>
           </Router>
         </Layout>
+        {/* <Footer /> */}
       </React.Fragment>
     );
   }
